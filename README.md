@@ -24,3 +24,22 @@ This repository contains implementations of fundamental machine learning algorit
 - **Neural Networks**
   - Basic Neural Network Implementation
   - Maximum Likelihood Estimation (MLE)
+## Citation
+```bibtex
+@misc{ML-Implementation,
+  author = {Uday Teja K},
+  title = {Foundational Machine Learning Algorithms Implementation},
+  year = {2024},
+  publisher = {GitHub},
+  url = {https://github.com/username/ml-algorithms}
+}
+```
+
+## Acknowledgments
+- Special thanks to IITM
+- Based on various machine learning textbooks and research papers
+
+## Contact
+- Uday Teja K
+- Email: applleissteve1976@gmail.com
+- LinkedIn: linkedin.com/uday-tejak
