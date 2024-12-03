@@ -41,5 +41,5 @@ This repository contains implementations of fundamental machine learning algorit
 
 ## Contact
 - Uday Teja K
-- Email: applleissteve1976@gmail.com
+- Email: appleissteve1976@gmail.com
 - LinkedIn: linkedin.com/uday-tejak
